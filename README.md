@@ -26,6 +26,6 @@ For a quick review of the paper please see LCU-Net.pptx
 
 ## How to Run
 
-* Clone the repo: ```git clone https://github.com/Aitto/LCU-net.git```
+* Clone the repo: ```git clone git@github.com:aditya-chakma/LCU-net.git```
 
 * Open LCU-Net.ipynb with jupyter notebook and run all cells. Modify them as you want. No additional steps are required.
